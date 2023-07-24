@@ -1,0 +1,15 @@
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\bin\Debug\net7.0\DIO-M3-Desafio-de-projeto.exe
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\bin\Debug\net7.0\DIO-M3-Desafio-de-projeto.deps.json
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\bin\Debug\net7.0\DIO-M3-Desafio-de-projeto.runtimeconfig.json
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\bin\Debug\net7.0\DIO-M3-Desafio-de-projeto.dll
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\bin\Debug\net7.0\DIO-M3-Desafio-de-projeto.pdb
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.csproj.AssemblyReference.cache
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.AssemblyInfoInputs.cache
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.AssemblyInfo.cs
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.dll
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\refint\DIO-M3-Desafio-de-projeto.dll
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.pdb
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\DIO-M3-Desafio-de-projeto.genruntimeconfig.cache
+D:\Projetos\C#\DIO-M3-Desafio-de-projeto\obj\Debug\net7.0\ref\DIO-M3-Desafio-de-projeto.dll
